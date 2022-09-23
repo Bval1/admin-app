@@ -19,12 +19,12 @@ export default function User() {
         <div className="userContainer">
             <div className="userShow">
                 <div className="userShowTop">
-                    <img src="https://static.wikia.nocookie.net/villains/images/6/66/1990-goodfellas-billy-bates-frank-vincent.jpg/" 
+                    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Jon_Snow_Season_8.png" 
                     alt="" 
                     className="userShowImg" 
                     />
                     <div className="userShowTopTitle">
-                        <span className="userShowUsername">John Doe</span>
+                        <span className="userShowUsername">Jon Snow</span>
                         <span className="userShowUserTitle">Software Engineer</span>
                     </div>
                 </div>
@@ -32,7 +32,7 @@ export default function User() {
                     <span className="userShowTitle">Account Details</span>
                     <div className="userShowInfo">
                         <AccountBoxOutlinedIcon className="userShowIcon"/>
-                        <span className="userShowInfoTitle">johndoe99</span>
+                        <span className="userShowInfoTitle">jonsnow99</span>
                     </div>
                     <div className="userShowInfo">
                         <CalendarMonthOutlinedIcon className="userShowIcon"/>
@@ -45,7 +45,7 @@ export default function User() {
                     </div>
                     <div className="userShowInfo">
                         <AlternateEmailOutlinedIcon className="userShowIcon"/>
-                        <span className="userShowInfoTitle">johndoe99@gmail.com</span>
+                        <span className="userShowInfoTitle">jonsnow@gmail.com</span>
                     </div>
                     <div className="userShowInfo">
                         <LocationOnOutlinedIcon className="userShowIcon"/>
@@ -61,7 +61,7 @@ export default function User() {
                             <label>Username</label>
                             <input 
                             type="text" 
-                            placeholder="johndoe99" 
+                            placeholder="jonsnow99" 
                             className="userUpdateInput" 
                             />
                         </div>
@@ -69,7 +69,7 @@ export default function User() {
                             <label>Full Name</label>
                             <input 
                             type="text" 
-                            placeholder="John Doe" 
+                            placeholder="Jon Snow" 
                             className="userUpdateInput" 
                             />
                         </div>
@@ -85,7 +85,7 @@ export default function User() {
                             <label>Email</label>
                             <input 
                             type="text" 
-                            placeholder="johndoe99@gmail.com" 
+                            placeholder="jonsnow@gmail.com" 
                             className="userUpdateInput" 
                             />
                         </div>
@@ -101,7 +101,7 @@ export default function User() {
                     <div className="userUpdateRight">
                         <div className="userUpdateUpload">
                             <img 
-                            src="https://static.wikia.nocookie.net/villains/images/6/66/1990-goodfellas-billy-bates-frank-vincent.jpg/"
+                            src="https://upload.wikimedia.org/wikipedia/en/3/30/Jon_Snow_Season_8.png"
                             alt=""
                             className="userUpdateImg"
                             />

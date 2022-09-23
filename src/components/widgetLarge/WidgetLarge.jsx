@@ -19,7 +19,7 @@ export default function WidgetLarge() {
           <tr className="widgeLargeTr">
             <td className="widgetLargeUser">
               <img src="https://static.wikia.nocookie.net/villains/images/5/58/E0014c229a10ead58328aee08afb6ab3--supporting-actor-gangsters.jpg" alt="" className="widgetLargeImg" />
-              <span className="widgetLargeName">John Doe</span>
+              <span className="widgetLargeName">Tommy DeVito</span>
             </td>
             <td className="widgetLargeDate">21 Sept 2022</td>
             <td className="widgetLargeAmount">$122.00</td>
@@ -31,7 +31,7 @@ export default function WidgetLarge() {
           <tr className="widgeLargeTr">
             <td className="widgetLargeUser">
               <img src="https://static.wikia.nocookie.net/villains/images/5/58/E0014c229a10ead58328aee08afb6ab3--supporting-actor-gangsters.jpg" alt="" className="widgetLargeImg" />
-              <span className="widgetLargeName">John Doe</span>
+              <span className="widgetLargeName">Tommy DeVito</span>
             </td>
             <td className="widgetLargeDate">21 Sept 2022</td>
             <td className="widgetLargeAmount">$122.00</td>
@@ -43,7 +43,7 @@ export default function WidgetLarge() {
           <tr className="widgeLargeTr">
             <td className="widgetLargeUser">
               <img src="https://static.wikia.nocookie.net/villains/images/5/58/E0014c229a10ead58328aee08afb6ab3--supporting-actor-gangsters.jpg" alt="" className="widgetLargeImg" />
-              <span className="widgetLargeName">John Doe</span>
+              <span className="widgetLargeName">Tommy DeVito</span>
             </td>
             <td className="widgetLargeDate">21 Sept 2022</td>
             <td className="widgetLargeAmount">$122.00</td>
